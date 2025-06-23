@@ -1,0 +1,27 @@
+{
+  "name": "posenet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonFlorenciano/PoseNet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GastonFlorenciano/PoseNet/issues"
+  },
+  "homepage": "https://github.com/GastonFlorenciano/PoseNet#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
